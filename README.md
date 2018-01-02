@@ -4,7 +4,7 @@ A lightweight networking layer I have been developing for this [personal project
 The general approach would be to include a framework but this little project pulls at my desire to learn and discover new and interesting things. Its also in part a response to my growing perception of SOLID principles which took me much too long to discover.
 
 # Installation
-Build using Xcode Version 9.2, Swift 4.0
+Developed using Xcode Version 9.2, Swift 4.0
 
 # Configure
 There are a small number of simple changes which should enable the project to connect to a server:
